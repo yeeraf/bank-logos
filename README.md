@@ -1,7 +1,3 @@
-# Finances Icon
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/aomdev)<br/>
-Special thanks <a href="https://github.com/omise/banks-logo">Omise</a>
-
 ## Usage
 Usage:
 ```html
@@ -9,7 +5,8 @@ Usage:
 ```
 
 ## Bank List
-![Bank List](https://i.imgur.com/lZnWsLN.png)
+![Bank List](https://user-images.githubusercontent.com/945179/128734097-3fd99e5e-99ff-462e-85ea-d054d2600cfd.png)
+
 - **bank-bbl** - Bangkok Bank
 - **bank-kbank** - Kasikornbank
 - **bank-rbs** - Royal Bank of Scotland
